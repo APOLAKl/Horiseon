@@ -1,15 +1,28 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# <Project Horiseon - HTML, CSS, and Git: Code Refactor>
 
-Improved accesibility using semantic HTML elements. Structured and logical with alt attribute, links working and concise title.
+## Description
 
+To be able to prepare myself in Coding, I am applying what I learned on HTML, CSS, and Git to this
+project, refactoring for more consistent, simplified and optimum code without breaking it, to the best of of my knowledge. 
+
+
+## Usage
+
+Provide instructions and examples for use. Include screenshots as needed.
+
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+    ```md
+    ![alt text](Assets/HoriseonSS.jpeg)
+    ```
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Project Horiseon Screenshot](https://apolakl.github.io/Horiseon/Assets/HoriseonSS.jpeg)
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+## 🔗 Link to Deployed Page
+https://apolakl.github.io/Horiseon/
 
+## 🔗 Link to GitHub Repo Page
+https://github.com/APOLAKl/Horiseon  [![APOLAKl Repo Page](https://img.shields.io/github/stars/APOLAKl/Horiseon?style=social)](https://github.com/APOLAKl/Horiseon)
