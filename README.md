@@ -6,16 +6,6 @@ To be able to prepare myself in Coding, I am applying what I learned on HTML, CS
 project, refactoring for more consistent, simplified and optimum code without breaking it, to the best of of my knowledge. 
 
 
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](Assets/HoriseonSS.jpeg)
-    ```
-
 ## Screenshots
 
 ![Project Horiseon Screenshot](https://apolakl.github.io/Horiseon/Assets/HoriseonSS.jpeg)
